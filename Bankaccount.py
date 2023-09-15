@@ -28,6 +28,6 @@ account = BankAccount(account_number="123456789",account_holder_name="Agalya",in
 
 
 account.display_balance()
-#account.deposit (500.0)
-#account.withdraw (200 .0)
-#account.display_balance( )
+account.deposit (500.0)
+account.withdraw (200 .0)
+account.display_balance( )
